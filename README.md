@@ -7,3 +7,14 @@ Python 工具
 ## TODO
 
 - [x] scp
+- [ ] copy
+
+
+
+## install
+
+```
+python setup.py build
+python setup.py sdist
+```
+
